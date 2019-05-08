@@ -1,0 +1,151 @@
+
+section {
+    text-align: center;
+    margin: auto;
+
+}
+
+/* .about-section {
+    background: url(https://www.pixelstalk.net/wp-content/uploads/2016/06/Color-Wallpapers-image-picture.jpg
+    ) no-repeat;
+} */
+.me-content {
+
+    padding-top: 2rem;
+    width: 30%;
+    text-align: left;
+    margin-left: 8rem;
+}
+
+#PhilFlag {
+    width: 5rem;
+    height: auto;
+}
+
+.about-section {
+    /* background: url(https://wallpapertag.com/wallpaper/full/5/9/4/912301-popular-daftpunk-wallpaper-3840x2160.jpg); */
+    /* background: url(http://wallpapersdsc.net/wp-content/uploads/2016/10/Daft-Punk-Images.png); */
+    background: url(http://hdqwalls.com/wallpapers/daft-punk-and-c3po-0v.jpg) center;
+    background-size: 100% auto;
+    color: white;
+    height: 95%;
+}
+
+#past-projects {
+    
+    /* background: url(https://xshyfc.com/wp-content/uploads/data/2018/2/25/Daft-Punk-Backgroundsdownload-free-daft-punk-backgrounds-1920x1080-ipad-PIC-WPXH455758.jpg) top; */
+    background-color: rgb(168, 168, 168);
+    background-position: top;
+    background-size: 130% auto;
+    height: 100%;
+   color: black;
+   padding-top: 1.5rem;
+}
+
+.frames {
+    float: left;
+    width: 40%;
+    height: 70%;
+    border: black solid 2px;
+    left: 5rem;
+    margin: 1.5rem 2rem 1.5rem 5.5rem;
+}
+
+#work-experience {
+    padding-top: 2rem;
+    background: url(https://images.alphacoders.com/217/21733.jpg) top;
+    background-position: top;
+    background-size: 100% auto;
+    height: 120%;
+    color: white;
+}
+
+#other-websites {
+    padding-top: 5rem;
+    background: url(https://images3.alphacoders.com/791/79169.jpg
+    ) top;
+    
+    background-position: top;
+    background-size: 100% auto;
+    height: 100%;
+    color: black;
+}
+
+#inside-other-content {
+    
+    margin: auto;
+    width: 30%;
+    margin-top: 5rem;
+    
+}
+
+
+ol {
+    margin: auto;
+    text-align: left;
+    width: 30%;
+}
+.jobs {
+ 
+    height: 25%;
+    width: auto;
+}
+
+.links:hover {
+    
+    border-color: black;
+    
+    background-color: rgb(26, 120, 207);
+    color: black;
+    text-decoration: none;
+}
+
+#other-website-text {
+    margin-top: 2rem;
+    font-size: 1.5rem;
+}
+
+#form {
+    width: 20%;
+    margin-left: 20rem;
+    text-align: left;
+
+}
+
+.links:link {
+    border: solid;
+    border-color: black;
+    padding: 0 1rem .1rem 1rem;
+    border-radius: 2.5rem;
+    color: hotpink;
+    background-color: black;
+    border-color: black;
+}
+
+#other-page {
+    
+    background-position: top;
+    background-size: 100% auto;
+}
+
+.midnight {
+    background: url() top;
+    background-position: top;
+    background-size: 100% auto;
+}
+
+.blue-pink {
+    background: url() top;
+    background-position: top;
+    background-size: 100% auto;
+}
+
+.rainbow {
+    /* background: url(https://desktopwalls.net/wp-content/uploads/2014/07/Daft%20Punk%20Helmet%20Colorful%20Artwork%20Desktop%20Wallpaper.jpg) top; */
+    background: url() center;
+    background-position: contain;
+    
+    background-size: 100% contain;
+}
+
+
